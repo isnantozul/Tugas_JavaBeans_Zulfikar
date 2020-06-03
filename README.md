@@ -1,4 +1,4 @@
-# Tugas4-RSBK-AJAX
+# Tugas4-RSBK-JavaBeans
 * RSBK Kelas B 
 * Muhammad Zulfikar Isnanto (211201140011)
 
